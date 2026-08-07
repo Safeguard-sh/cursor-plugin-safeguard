@@ -1,0 +1,11 @@
+{
+  "name": "safeguard",
+  "displayName": "Safeguard",
+  "version": "1.0.0",
+  "description": "Software supply chain security for Cursor — vulnerabilities, findings, and project scanning.",
+  "author": { "name": "Safeguard", "url": "https://safeguard.sh" },
+  "license": "MIT",
+  "keywords": ["security", "supply-chain", "vulnerabilities", "sbom"],
+  "homepage": "https://safeguard.sh",
+  "repository": "https://github.com/<your-org>/safeguard-cursor-plugin"
+}
